@@ -1,0 +1,4 @@
+win R
+cd /d C:\KOD\beliberda
+git status
+git .
