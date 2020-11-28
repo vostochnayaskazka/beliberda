@@ -1,4 +1,10 @@
 win R
 cd /d C:\KOD\beliberda
+
+git config --global user.name "vostochnayaskazka"
+
 git status
-git .
+
+git add .
+git commit -m "add first file"
+git push origin
